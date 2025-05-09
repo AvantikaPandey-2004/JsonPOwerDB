@@ -33,22 +33,6 @@ CHANGE - UPDATE
 DELETE
 RESET
 
-Illustrations
-![image](https://user-images.githubusercontent.com/84792843/221294311-7ab75f8c-d5ee-4fed-92df-43d504a15a65.png)
-
-![image](https://user-images.githubusercontent.com/84792843/221294639-5f04555f-074d-40fd-8bb8-74aef42de642.png)
-
-![image](https://user-images.githubusercontent.com/84792843/221294498-343226c6-f88d-4f85-92e7-f9342495cfba.png)
-
-![image](https://user-images.githubusercontent.com/84792843/221294735-851c5c8e-abef-4b72-9730-bf00620819ec.png)
-
-![image](https://user-images.githubusercontent.com/84792843/221294803-83985a1a-a70d-4483-b5ec-b98622f6aa59.png)
-
-![image](https://user-images.githubusercontent.com/84792843/221294891-97850c42-fa9f-4b36-bda3-bbc2dbb95223.png)
-
-![image](https://user-images.githubusercontent.com/84792843/221294929-b6813f59-5632-4d9f-8037-b619cc80dcc8.png)
-
-
 Scope of functionalities : 
 
 Examples of use : can be used foe various other platforms like Online Examination Registration , Job Application , profile creation , and many more other uses .
@@ -150,9 +134,9 @@ New row -
     "rel": "Emp-Rel",
     "jsonStr": {
         "id": "2",
-        "name": "aniket",
-        "email": "aniket@gmail.com",
-        "mobileno": "8582887792"
+        "name": "avantika",
+        "email": "avantikapandey1572@gmail.com",
+        "mobileno": "9455960127"
     }
 }
 
@@ -163,7 +147,7 @@ Total 1 rows are inserted, Added 0 columns as New Index Columns.","status":200}
 Dashboard > Visualize > Jsondb > select Database and Relation
 
 1	2/24/2023, 8:21:16 PM	soniya@gmail.com	1	9967825671	Soniya
-2	2/24/2023, 8:24:57 PM	aniket@gmail.com	2	8582887792	aniket
+2	2/24/2023, 8:24:57 PM	avantikapandey1572@gmail.com	2	9455960127 avantika
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 GET Command - Retrieving Record : - # IRL (JPDB Index Retrieval Language)
@@ -190,14 +174,14 @@ POST | http://api.login2explore.com:5577/api/irl
     "cmd": "GET",
     "rel": "Emp-Rel",
     "jsonStr": {
-        "name": "aniket"
+        "name": "avantika"
     }
 
 }
 
 
 {"data"
-:"{\"name\":\"aniket\",\"id\":\"2\",\"mobileno\":\"8582887792\",\"email\":\"aniket@gmail.com\"}"
+:"{\"name\":\"avantika\",\"id\":\"2\",\"mobileno\":\"9455960127\",\"email\":\"aniket@gmail.com\"}"
 ,"message":"DATA RETRIEVED FROM PI","status":200}
 
 
@@ -451,8 +435,6 @@ and open the template in the editor.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Saving data in JPDB from HTML form :-
-![image](https://user-images.githubusercontent.com/84792843/221236356-22fa3e5d-9e1d-4b6e-bead-e28ee931f113.png)
 
 CODE --
 
@@ -974,7 +956,7 @@ and open the template in the editor.
   </body>
 </html>
 
-![image](https://user-images.githubusercontent.com/84792843/221276871-9de54244-d0c2-4e88-aca5-d6802567fa5e.png)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1259,25 +1241,11 @@ and open the template in the editor.
     </script>
   </body>
 </html>
-![image](https://user-images.githubusercontent.com/84792843/221289611-acb5c361-c3f7-4221-957e-5a7f9c489426.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Published Micro Project Code to Github
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-More Commands to Practice
-JPDB Documentation Page: http://login2explore.com/jpdb/docs.html#jpdb-command-request
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Test - Interactive JPDB
-Test your knowledge 
 
-Attempts allowed: 5
-
-Time limit: 5 mins
-
-Grading method: Highest grade
-
-Highest grade: 3.00 / 4.00.
-Overall feedback
-Congratulations!! Excellent Performance! Keep it Up.
 
