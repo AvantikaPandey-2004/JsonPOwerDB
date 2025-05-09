@@ -1,6 +1,6 @@
 Micro Project Work
 
-contact email : aniketdeytiu@gmail.com
+contact email : avantikapandey1572@gmail.com
 
 LINK - https://aniket-dey2000.github.io/JsonPOwerDB.github.io/
 
