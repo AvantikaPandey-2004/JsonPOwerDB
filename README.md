@@ -2,8 +2,7 @@ Micro Project Work
 
 contact email : avantikapandey1572@gmail.com
 
-LINK - https://aniket-dey2000.github.io/JsonPOwerDB.github.io/
-
+LINK - https://github.com/AvantikaPandey-2004/JsonPOwerDB
 Title of the Project : Student Enrollment Form 
 
 Description : Student Enrollment Form that will store data in STUDENT-TABLE relation of SCHOOL-DB database.
