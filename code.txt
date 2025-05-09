@@ -1,8 +1,6 @@
-Micro Project Work
+Micro Project Work 
 
 contact email : aniketdeytiu@gmail.com
-
-LINK - https://aniket-dey2000.github.io/JsonPOwerDB.github.io/
 
 Title of the Project : Student Enrollment Form 
 
@@ -1281,4 +1279,5 @@ Grading method: Highest grade
 Highest grade: 3.00 / 4.00.
 Overall feedback
 Congratulations!! Excellent Performance! Keep it Up.
+
 
